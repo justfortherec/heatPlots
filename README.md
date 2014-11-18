@@ -37,6 +37,8 @@ Usage
 
 These scripts can be used manually or unattended.
 
+In order to run, the output directory must exist. Thus, create directory `plots` before you run the scripts for the first time.
+
 ### Manual usage
 
 Just dump all data (as described above) in the `data` directory and run `heat-bar-plots.r` or `heat-speedup-plot.r`. Plots are generated in `plots` as PDF files.
