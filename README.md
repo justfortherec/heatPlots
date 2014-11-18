@@ -30,6 +30,7 @@ Columns N, M, k, and p should include the values passed to heat as command line 
 
 To distinguish between parallel and sequential implementations, column p (which denotes the number of threads) should be set to 0 for performance data of a sequential executable.
 
+The `data` directory already includes one correctly formated example file.
 
 Usage
 -----
